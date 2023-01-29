@@ -1,0 +1,219 @@
+ .u-section-1 {
+  min-height: 973px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 1180px;
+  height: 133px;
+  margin: 412px 0 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 767px;
+  height: 791px;
+  margin: -483px calc(((100% - 1140px) / 2)) 0 auto;
+}
+
+.u-section-1 .u-group-1 {
+  width: 678px;
+  min-height: 316px;
+  height: auto;
+  margin: -775px auto 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 40px 329px 0 0;
+}
+
+.u-section-1 .u-group-2 {
+  width: 337px;
+  min-height: 239px;
+  height: auto;
+  margin: -132px auto -67px 54px;
+}
+
+.u-section-1 .u-line-1 {
+  width: 57px;
+  transform-origin: right center 0px;
+  margin: 45px auto 0 -43px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 45px calc(((100% - 1140px) / 2) + 791px) 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-image-2 {
+  width: 312px;
+  height: 119px;
+  margin: 62px auto 1px calc(((100% - 1140px) / 2) + 143px);
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-shape-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: calc(((100% - 940px) / 2));
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 16px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 4.0625rem;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 940px) / 2) + 591px);
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: calc(((100% - 940px) / 2) + 143px);
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 1070px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 742px;
+    margin-right: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -726px;
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 13px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 720px) / 2) + 371px);
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: calc(((100% - 720px) / 2) + 143px);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 885px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 557px;
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-top: -541px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 9px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 191px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 540px) / 2) + 191px);
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: calc(((100% - 540px) / 2) + 143px);
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 679px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 351px;
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-top: -335px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 6px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 320px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-line-1 {
+    transform-origin: left center 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 340px) / 2));
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: calc(((100% - 340px) / 2) + 28px);
+  }
+}
